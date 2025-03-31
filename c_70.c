@@ -6,7 +6,7 @@ int b=3;
 int c;
 	clrscr();
 	c=a+b;
-	printf("addittion of a and b is",&c);
+	printf(" the addittion of a and b is",&c);
 	getch();
 	return(1);
 }
